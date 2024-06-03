@@ -1,0 +1,3 @@
+Usuário: root
+Senha: root
+Demais informações padrão.
